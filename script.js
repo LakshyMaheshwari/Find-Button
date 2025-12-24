@@ -30,13 +30,13 @@ function randomText(){
 
 }
 
-h1.addEventListener('mouseenter',function(){
-    h1.style.color = "black";
-})
+// h1.addEventListener('mouseenter',function(){
+//     h1.style.color = "black";
+// })
 
-h1.addEventListener('mouseout',function(){
-    h1.style.color = "white";
-})
+// h1.addEventListener('mouseout',function(){
+//     h1.style.color = "white";
+// })
 
 
 btn.addEventListener('click',function(){
